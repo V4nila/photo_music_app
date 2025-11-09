@@ -1,0 +1,12 @@
+PyQt5
+Pillow
+opencv-python
+torch
+torchvision
+torchaudio
+transformers
+ftfy
+regex
+tqdm
+spotipy
+SQLAlchemy
